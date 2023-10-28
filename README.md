@@ -6,4 +6,5 @@ Supervised Learning:
  
   1.Regression,Classification                                                                                                                                                   
   2.Techniques for Regression and Classificatio
+  
   3.Linear Regression,Logistic Regression
